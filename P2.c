@@ -1,3 +1,7 @@
+/*P2.c*/
+/*felipe_cesar_cardoso_silva*/
+/*11811eel044*/
+
 #include<stdio.h>
 
 void bin(unsigned int num)
